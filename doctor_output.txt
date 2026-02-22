@@ -1,0 +1,25 @@
+﻿[0m[2mCommon[22m[0m
+[0m [32mΓ£ô[39m Node.js - Required to execute JavaScript code[0m
+[0m [32mΓ£ô[39m npm - Required to install NPM dependencies[0m
+[0m [32mΓ£ô[39m Metro - Required for bundling the JavaScript code[0m
+[0m[0m
+[0m[2mAndroid[22m[0m
+[0m [31mΓ£û[39m Adb - No devices and/or emulators connected. Please create emulator with Android Studio or connect Android device.[0m
+[0m [31mΓ£û[39m JDK - Required to compile Java code[0m
+[0m   - Version found: [31mN/A[39m[0m
+[0m   - Version supported: [32m>= 17 <= 20[39m[0m
+[0m [31mΓ£û[39m Android Studio - Required for building and installing your app on Android[0m
+[0m [31mΓ£û[39m ANDROID_HOME - Environment variable that points to your Android SDK installation[0m
+[0m [32mΓ£ô[39m Gradlew - Build tool required for Android builds[0m
+[0m [31mΓ£û[39m Android SDK - Required for building and installing your app on Android[0m
+[0m   - Versions found: [31mN/A[39m[0m
+[0m   - Version supported: [32m36.0.0[39m[0m
+[0m
+[1mErrors:[22m   5[0m
+[0m[1mWarnings:[22m 0[0m
+[0m[0m
+[0m[1mUsage[22m[0m
+[0m ΓÇ║ [2mPress[22m f [2mto try to fix issues.[22m[0m
+[0m ΓÇ║ [2mPress[22m e [2mto try to fix errors.[22m[0m
+[0m ΓÇ║ [2mPress[22m w [2mto try to fix warnings.[22m[0m
+[0m ΓÇ║ [2mPress[22m Enter [2mto exit.[22m[0m
